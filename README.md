@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++, Python, R**
 
-- ⚡ Fun fact **I get stung by 3 wasps every summer on average**
+- ⚡ Fun fact **Theres ntg o-o**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
