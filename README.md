@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bibz-a" alt="Bibz-a" /></a> </p>
 
--Learning **C++, Python, and SQL**
--Building an ML recommender system and exploring how models actually work
--Curious about RISC-V and low-level systems
--Completed the Web-Crawler in C++ using CURL
+- Learning **C++, Python, and SQL**
+- Building an ML recommender system and exploring how models actually work
+- Curious about RISC-V and low-level systems
+- Completed a Web Crawler in C++ using cURL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
